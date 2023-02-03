@@ -36,7 +36,7 @@ section {
 .pvx-bot {
   color: white;
   font-weight: 400;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   background-color: #ff0c0c;
   width: 180px;
   height: 45px;
@@ -65,7 +65,7 @@ svg {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 12px;
+  margin: 20px;
 }
 
 .github-stats-count {
@@ -94,7 +94,7 @@ svg {
 .down-arrow {
   width: 120px;
   height: 120px;
-  margin-left: 50px;
+  margin-left: 5px;
   opacity: 0.2;
 }
 
